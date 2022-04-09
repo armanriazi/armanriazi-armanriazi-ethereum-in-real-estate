@@ -8,8 +8,7 @@ Ubuntu 16.04.2 LTS
 TestRPC, version 3.0.4
 Truffle, version 3.2.1
 Node.js, version 7.9.0
-The project repository is released under the MIT License7 and it can be accessed at
-https://github.com/hukkinj1/demo-marketplace-in-energy.
+
 Running an Ethereum client
 
 ### Run a deterministic TestRPC session
