@@ -12,7 +12,7 @@ testrpc -d
 truffle migrate
 ```
 
-### Open the status view in browser
+### Open the status view  in browser
 
 Open `scripts/status/index.html` in browser.
 
