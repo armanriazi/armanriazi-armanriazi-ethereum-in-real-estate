@@ -58,6 +58,7 @@ node 3-uploadConfirmationLetter <document hash>
 node 4-makeAgentOffer <fee>
 ```
 
+
 ### As the owner of the real estate, accept one of the agent offers
 
 ```shell
