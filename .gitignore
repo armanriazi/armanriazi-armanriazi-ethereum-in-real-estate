@@ -4,6 +4,7 @@ environments/*/contracts/**
 logs
 *.log
 
+
 # Directories used by tools like mocha & istanbul
 coverage
 shippable
