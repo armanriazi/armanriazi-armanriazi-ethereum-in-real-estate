@@ -65,9 +65,4 @@ node 4-makeAgentOffer <fee>
 node 5-chooseAgentOffer <offer id>
 ```
 
-
-
-
-
-
-
+* A part of this project was getted from an article 
