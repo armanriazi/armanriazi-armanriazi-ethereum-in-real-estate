@@ -4,10 +4,14 @@
 
 This documentation has been intended for readers with a basic understanding on the Solidity smart contract programming language and on basic web developing tools. In order to run,
 the demo requires the following software to be installed. For verified functionality, the specified versions are recommended:
-Ubuntu 16.04.2 LTS
-TestRPC, version 3.0.4
-Truffle, version 3.2.1
-Node.js, version 7.9.0
+
+> Ubuntu 16.04.2 LTS
+> 
+> TestRPC, version 3.0.4
+> 
+> Truffle, version 3.2.1
+> 
+> Node.js, version 7.9.0
 
 Running an Ethereum client
 
